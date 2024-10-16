@@ -1,0 +1,43 @@
+const images = [
+    {
+        image:'src/assets/1.jpg',
+        name:"Burgur"
+    },
+    {
+        image:'src/assets/2.jpg',
+        name:"Crypto-Coin"
+    },
+    {
+        image:'src/assets/3.jpg',
+        name:"Smile-emoji"
+    },
+    {
+        image:'src/assets/4.jpg',
+        name:"shoe"
+    },
+    {
+        image:'src/assets/5.jpg',
+        name:"Building"
+    },
+    {
+        image:'src/assets/6.jpg',
+        name:'House'
+    },
+    {
+        image:'src/assets/7.jpg',
+        name:'Road-construct'
+    },
+    {
+        image:'src/assets/8.jpg',
+        nmae:'Be-happy'
+    },
+    {
+        image:'src/assets/9.jpg',
+        name:'Environment'
+    },
+    {
+        image:'src/assets/10.jpg',
+        name:'Swing'
+    }
+]
+export default images;
